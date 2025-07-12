@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sonali Barik
+- 👋 Hi
 - 👀 I’m interested in tech and it's related things
 - 🌱 I’m currently learning and working on building projects 
 
